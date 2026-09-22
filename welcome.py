@@ -1,4 +1,6 @@
-def welcome_message(name):
-    return f"Welcome, {name}! Glad to have you here."
+def welcome(name):
+    return f"Hello, {name}! Welcome to PLP."
 
-print(welcome_message("YourName"))
+print(welcome("Amina"))
+print(welcome("Brian"))
+print(welcome("Fatuma"))
